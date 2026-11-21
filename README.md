@@ -35,12 +35,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the process.
 
 ---
 
-## See it in practice: OEC Roundtables
+## See it in practice: Open Ecosystem Fire Pit
 
 The methodology in this repository describes **what** partner ecosystem
 management is and **how** to do it. The
-[OEC Roundtables](https://github.com/open-ecosystem-collective/roundtables)
-are where the methodology gets faces and the partner landscape gets
+[Open Ecosystem Fire Pit](https://github.com/open-ecosystem-collective/fire-pit)
+is where the methodology gets faces and the partner landscape gets
 voices.
 
 Four times a year in Zurich, three orgs from the cloud-native ecosystem
@@ -52,8 +52,8 @@ If you are reading the methodology and want to see how real
 companies talk about it in their own words, the recordings are the
 shortest path.
 
-→ [The Roundtables format](https://github.com/open-ecosystem-collective/roundtables)
-→ [Recordings index](https://github.com/open-ecosystem-collective/roundtables/tree/main/recordings)
-→ [Read the full Roundtables page](https://open-ecosystem-collective.com/roundtables.html)
+→ [The Fire Pit format](https://github.com/open-ecosystem-collective/fire-pit)
+→ [Recordings index](https://github.com/open-ecosystem-collective/fire-pit/tree/main/recordings)
+→ [Read the full Fire Pit page](https://open-ecosystem-collective.com/fire-pit.html)
 
-*Open Ecosystem Collective · openecosystem.ch · CC-BY-SA 4.0*
+*Open Ecosystem Collective · open-ecosystem-collective.com · CC-BY-SA 4.0*
