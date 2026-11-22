@@ -43,7 +43,7 @@ management is and **how** to do it. The
 is where the methodology gets faces and the partner landscape gets
 voices.
 
-Four times a year in Zurich, three orgs from the cloud-native ecosystem
+Anywhere in Switzerland, three orgs from the cloud-native ecosystem
 in DACH share a stage. The pitches are recorded and published. Over
 time the recordings become a public archive of partnership conversations
 that mirror the patterns described here.
